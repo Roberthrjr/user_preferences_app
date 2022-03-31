@@ -1,23 +1,21 @@
 import 'package:flutter/material.dart';
+import 'package:user_preferences_app/screens/screens.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Material App',
       debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Preferencias de usuario local'),
-        ),
-        body: Center(
-          child: Container(
-            child: Text('Hello World'),
-          ),
-        ),
-      ),
+      initialRoute: HomeScreen.routerName,
+      routes: {
+        HomeScreen.routerName: (_) => const HomeScreen(),
+        SettingsScreen.routerName: (_) => const SettingsScreen(),
+      },
     );
   }
 }
