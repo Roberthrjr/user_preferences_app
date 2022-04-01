@@ -10,4 +10,4 @@ Esta aplicación guarda localmente los siguientes datos del usuario:
 - [Género del usuario]
 - [Nombre del usuario]
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Roberthrjr/user_preferences_app/master/assets/F01.jpg)
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Roberthrjr/user_preferences_app/master/assets/F01.png)
