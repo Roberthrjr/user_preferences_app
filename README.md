@@ -20,7 +20,13 @@ La aplicación cuenta con un Drawer (side-menu), para mostrar:
 
 ![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Roberthrjr/user_preferences_app/master/assets/F02.png)
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Roberthrjr/user_preferences_app/master/assets/F01.png)
+Pantalla de Settings, en donde se puede modificar los siguientes datos, que se guardaran localmente:
+
+- [Modo Oscuro - Tipo Switch]
+- [People - Tipo RadioList]
+- [Username - Tipo FormText]
+
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Roberthrjr/user_preferences_app/master/assets/F03.png)
 
 ![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Roberthrjr/user_preferences_app/master/assets/F01.png)
 
