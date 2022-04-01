@@ -1,16 +1,13 @@
 # user_preferences_app
 
-A new Flutter project.
+Aplicación desarrollada en Flutter, para la lectura y resguardo de información del usuario en el dispositivo sin necesidad de base de datos tercera (solo la del dispositivo).
 
-## Getting Started
+## Demostración
 
-This project is a starting point for a Flutter application.
+Esta aplicación guarda localmente los siguientes datos del usuario:
 
-A few resources to get you started if this is your first Flutter project:
+- [Modo Oscuro]
+- [Género del usuario]
+- [Nombre del usuario]
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Roberthrjr/user_preferences_app/master/assets/F01.jpg)
